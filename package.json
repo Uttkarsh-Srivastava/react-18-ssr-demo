@@ -19,7 +19,7 @@
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-error-boundary": "^3.1.3",
-    "react-loadable-visibilty": "git+https://github.com/trinachoudhury1mg/react-loadable-visibility.git#feat/lazy-suspense-support",
+    "react-loadable-visibilty": "github:trinachoudhury1mg/react-loadable-visibility#feat/lazy-suspense-support",
     "resolve": "1.12.0",
     "rimraf": "^3.0.2",
     "webpack": "4.44.2",
