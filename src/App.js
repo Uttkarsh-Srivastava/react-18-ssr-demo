@@ -5,7 +5,7 @@
  * LICENSE file in the root directory of this source tree.
  *
  */
-
+import React from 'react'
 import {lazy} from 'react-loadable-visibilty';
 import {ErrorBoundary} from 'react-error-boundary';
 import Html from './Html';

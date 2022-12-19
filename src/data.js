@@ -6,6 +6,8 @@
  *
  */
 
+import React from 'react'
+
 import {createContext, useContext} from 'react';
 
 // Note: this file does not demonstrate a real data fetching strategy.
