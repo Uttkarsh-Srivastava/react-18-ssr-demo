@@ -7,7 +7,6 @@
       "start-app": {
         "name": "Run Dev Server",
         "command": "npm start",
-        "runAtStart": true
       }
     }
   }
