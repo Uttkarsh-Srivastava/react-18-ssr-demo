@@ -1,0 +1,13 @@
+{
+    "setupTasks": {
+      "install-dependencies": {
+        "name": "Install Dependencies",
+        "command": "npm install"
+      },
+      "start-app": {
+        "name": "Run Dev Server",
+        "command": "npm start",
+        "runAtStart": true
+      }
+    }
+  }
